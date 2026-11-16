@@ -70,7 +70,7 @@ Projeto integrado do 1º semestre: sistema pra analistas de crédito que calcula
 
 <h3>⌨️ commits por aqui</h3>
 
-<img src="assets/commits.svg" alt="Contador de commits feitos, incluindo repositórios privados" />
+<img src="assets/commits.svg?v=2" alt="Contador de commits feitos, incluindo repositórios privados" />
 
 <sub>conta também os repositórios privados da Itnex, só o número, sem nomes. atualiza sozinho todo dia.</sub>
 
