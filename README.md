@@ -4,7 +4,7 @@
 
 <h1>oi, eu sou o def★ ✨</h1>
 
-<p><b>devops e devsecops de dia, programador de gambiarra boa de noite</b><br><sub>Pedro Henrique · estagiário na Itnex · DSM na Fatec São José dos Campos</sub></p>
+<p><b>backend e devsecops de dia, programador de gambiarra boa de noite</b><br><sub>Pedro Henrique · estagiário na Itnex · DSM na Fatec São José dos Campos</sub></p>
 
 <p>
 <a href="https://pedrohl45.github.io"><img src="https://img.shields.io/badge/portf%C3%B3lio-130e13?style=for-the-badge&logo=githubpages&logoColor=f39a2b" alt="Portfólio" /></a>
@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td>
-<p>Aqui é o cantinho de boa. Trabalho com <b>DevOps e DevSecOps</b> na <a href="https://github.com/itnex-io">Itnex</a> (faço parte da org, sim, com crachá e tudo), e no resto do tempo escrevo software que ninguém pediu só porque ficou interessante: backend, automação, bots e uns brinquedos de IoT.</p>
+<p>Aqui é o cantinho de boa. Trabalho com <b>backend e DevSecOps</b> na <a href="https://github.com/itnex-io">Itnex</a> (faço parte da org, sim, com crachá e tudo), e no resto do tempo escrevo software que ninguém pediu só porque ficou interessante: backend, integrações de API, bots e uns brinquedos de IoT.</p>
 <p>Gosto de código legível, de pipeline que roda sozinho e de terminal aberto de madrugada. A Tayama fiscaliza.</p>
 </td>
 <td width="170" align="center"><img width="150" src="assets/rosto.png" alt="Tayama olhando de lado" /></td>
@@ -83,13 +83,15 @@ Projeto integrado do 1º semestre: sistema pra analistas de crédito que calcula
 
 | Tema | Onde eu pratico | |
 |:---|:---|:---|
-| DevOps e DevSecOps: pipeline, segurança no CI | Itnex | <img src="https://img.shields.io/badge/-construindo-f39a2b?style=flat-square&labelColor=130e13" alt="construindo" /> |
-| Backend e automação em Python (FastAPI) | Itnex · automacao-fatec | <img src="https://img.shields.io/badge/-construindo-f39a2b?style=flat-square&labelColor=130e13" alt="construindo" /> |
+| DevSecOps: segurança no CI (Gitleaks, Trivy, Semgrep) | Itnex | <img src="https://img.shields.io/badge/-construindo-f39a2b?style=flat-square&labelColor=130e13" alt="construindo" /> |
+| Backend em Python (FastAPI) | Itnex | <img src="https://img.shields.io/badge/-construindo-f39a2b?style=flat-square&labelColor=130e13" alt="construindo" /> |
+| Integração de APIs (Graph, Google, OAuth2) | automacao-fatec | <img src="https://img.shields.io/badge/-aplicando-f39a2b?style=flat-square&labelColor=130e13" alt="aplicando" /> |
 | TypeScript e React | Itnex | <img src="https://img.shields.io/badge/-aplicando-f39a2b?style=flat-square&labelColor=130e13" alt="aplicando" /> |
 | Docker e Docker Compose | Itnex | <img src="https://img.shields.io/badge/-aplicando-f39a2b?style=flat-square&labelColor=130e13" alt="aplicando" /> |
 | MQTT, BLE e ESP32 (IoT) | Itnex | <img src="https://img.shields.io/badge/-aprofundando-f39a2b?style=flat-square&labelColor=130e13" alt="aprofundando" /> |
 | Testes e CI (pytest, ruff, GitHub Actions) | automacao-fatec | <img src="https://img.shields.io/badge/-aplicando-f39a2b?style=flat-square&labelColor=130e13" alt="aplicando" /> |
 | Shell Script e Arch Linux | estudos-linux | <img src="https://img.shields.io/badge/-estudando-f39a2b?style=flat-square&labelColor=130e13" alt="estudando" /> |
+| SQL e estruturas de dados | estudo próprio | <img src="https://img.shields.io/badge/-estudando-f39a2b?style=flat-square&labelColor=130e13" alt="estudando" /> |
 
 ---
 
@@ -98,38 +100,28 @@ Projeto integrado do 1º semestre: sistema pra analistas de crédito que calcula
 <td width="170" align="center"><img width="150" src="assets/ramen.png" alt="Tayama comendo ramen" /></td>
 <td>
 <h3>🧰 caixa de ferramentas</h3>
-<p><b>linguagens</b><br>
+<p><b>dia a dia</b><br>
 <img src="https://img.shields.io/badge/Python-130e13?style=for-the-badge&logo=python&logoColor=f39a2b" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-130e13?style=for-the-badge&logo=typescript&logoColor=f39a2b" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-130e13?style=for-the-badge&logo=javascript&logoColor=f39a2b" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Go-130e13?style=for-the-badge&logo=go&logoColor=f39a2b" alt="Go" />
-<img src="https://img.shields.io/badge/Shell_Script-130e13?style=for-the-badge&logo=gnubash&logoColor=f39a2b" alt="Shell Script" />
-<img src="https://img.shields.io/badge/HTML5-130e13?style=for-the-badge&logo=html5&logoColor=f39a2b" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-130e13?style=for-the-badge&logo=css3&logoColor=f39a2b" alt="CSS3" /></p>
-<p><b>backend, bots e dados</b><br>
-<img src="https://img.shields.io/badge/FastAPI-130e13?style=for-the-badge&logo=fastapi&logoColor=f39a2b" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-130e13?style=for-the-badge&logo=flask&logoColor=f39a2b" alt="Flask" />
-<img src="https://img.shields.io/badge/Node.js-130e13?style=for-the-badge&logo=nodedotjs&logoColor=f39a2b" alt="Node.js" />
 <img src="https://img.shields.io/badge/React-130e13?style=for-the-badge&logo=react&logoColor=f39a2b" alt="React" />
-<img src="https://img.shields.io/badge/Discord.py-130e13?style=for-the-badge&logo=discord&logoColor=f39a2b" alt="Discord.py" />
+<img src="https://img.shields.io/badge/Node.js-130e13?style=for-the-badge&logo=nodedotjs&logoColor=f39a2b" alt="Node.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-130e13?style=for-the-badge&logo=postgresql&logoColor=f39a2b" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-130e13?style=for-the-badge&logo=mysql&logoColor=f39a2b" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-130e13?style=for-the-badge&logo=sqlite&logoColor=f39a2b" alt="SQLite" />
-<img src="https://img.shields.io/badge/MQTT-130e13?style=for-the-badge&logo=mqtt&logoColor=f39a2b" alt="MQTT" />
-<img src="https://img.shields.io/badge/Pandas-130e13?style=for-the-badge&logo=pandas&logoColor=f39a2b" alt="Pandas" />
-<img src="https://img.shields.io/badge/Google_APIs-130e13?style=for-the-badge&logo=googlecloud&logoColor=f39a2b" alt="Google APIs" />
-<img src="https://img.shields.io/badge/FFmpeg-130e13?style=for-the-badge&logo=ffmpeg&logoColor=f39a2b" alt="FFmpeg" /></p>
-<p><b>infra e dia a dia</b><br>
 <img src="https://img.shields.io/badge/Docker-130e13?style=for-the-badge&logo=docker&logoColor=f39a2b" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub_Actions-130e13?style=for-the-badge&logo=githubactions&logoColor=f39a2b" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-130e13?style=for-the-badge&logo=linux&logoColor=f39a2b" alt="Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-130e13?style=for-the-badge&logo=ubuntu&logoColor=f39a2b" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Arch_Linux-130e13?style=for-the-badge&logo=archlinux&logoColor=f39a2b" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Zabbix-130e13?style=for-the-badge&logo=zabbix&logoColor=f39a2b" alt="Zabbix" />
 <img src="https://img.shields.io/badge/Git-130e13?style=for-the-badge&logo=git&logoColor=f39a2b" alt="Git" />
-<img src="https://img.shields.io/badge/Jira-130e13?style=for-the-badge&logo=jira&logoColor=f39a2b" alt="Jira" />
-<img src="https://img.shields.io/badge/Obsidian-130e13?style=for-the-badge&logo=obsidian&logoColor=f39a2b" alt="Obsidian" />
-<img src="https://img.shields.io/badge/Vercel-130e13?style=for-the-badge&logo=vercel&logoColor=f39a2b" alt="Vercel" /></p>
+<img src="https://img.shields.io/badge/Ubuntu-130e13?style=for-the-badge&logo=ubuntu&logoColor=f39a2b" alt="Ubuntu" /></p>
+<p><b>segurança e ci</b><br>
+<img src="https://img.shields.io/badge/GitHub_Actions-130e13?style=for-the-badge&logo=githubactions&logoColor=f39a2b" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Gitleaks-130e13?style=for-the-badge" alt="Gitleaks" />
+<img src="https://img.shields.io/badge/Trivy-130e13?style=for-the-badge" alt="Trivy" />
+<img src="https://img.shields.io/badge/Semgrep-130e13?style=for-the-badge" alt="Semgrep" />
+<img src="https://img.shields.io/badge/pytest-130e13?style=for-the-badge&logo=pytest&logoColor=f39a2b" alt="pytest" /></p>
+<p><b>integração e iot</b><br>
+<img src="https://img.shields.io/badge/FastAPI-130e13?style=for-the-badge&logo=fastapi&logoColor=f39a2b" alt="FastAPI" />
+<img src="https://img.shields.io/badge/MQTT-130e13?style=for-the-badge&logo=mqtt&logoColor=f39a2b" alt="MQTT" />
+<img src="https://img.shields.io/badge/ESP32-130e13?style=for-the-badge&logo=espressif&logoColor=f39a2b" alt="ESP32" />
+<img src="https://img.shields.io/badge/Zabbix-130e13?style=for-the-badge&logo=zabbix&logoColor=f39a2b" alt="Zabbix" /></p>
+<p><b>também já usei em projetos</b><br>
+Flask · Pandas · MySQL · SQLite · Discord.py · Google APIs · Playwright · Go · Shell Script · JavaScript · Arch Linux · Scrum e Jira</p>
 </td>
 </tr>
 </table>
