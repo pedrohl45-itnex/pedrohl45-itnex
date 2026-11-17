@@ -33,7 +33,7 @@
 <h3>💼 na Itnex</h3>
 <p>🔐 <b>Padrões de DevSecOps</b>: convenções, templates e CI com Gitleaks, Trivy e Semgrep<br>
 🧱 <b>Repositório-modelo</b> com pipeline, segurança e padrões prontos pra todo projeto nascer certo<br>
-📦 <b>Controle de estoque multidepósito</b>: movimentações, solicitações, aprovação e separação, com acesso por perfil e integração com o ERP Protheus (TOTVS) <sub>· TypeScript, React, PostgreSQL, Docker</sub><br>
+📦 <b>Controle de estoque multidepósito</b>: movimentações, solicitações, aprovação e separação, com acesso por perfil e integração com o ERP Datasul (TOTVS) <sub>· TypeScript, React, PostgreSQL, Docker</sub><br>
 📺 <b>Painel de gestão à vista</b>: painel de TV com as 8 etapas do fluxo do produto e tela de consulta com busca e filtros <sub>· React, Vite, Node.js, PostgreSQL</sub><br>
 📡 <b>IoT com ESP32-S3</b>: dispositivos que falam Bluetooth LE e mandam dados por MQTT pra um backend em Python <sub>· Python, FastAPI, MQTT, BLE</sub><br>
 🌡️ <b>Monitoramento de sensores BLE</b>: temperatura, umidade e bateria no painel web e no Zabbix <sub>· C++, MQTT, SQLite, Docker</sub><br>
