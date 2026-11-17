@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td>
-<p>Aqui é o cantinho de boa. Trabalho com <b>backend e DevSecOps</b> na <a href="https://github.com/itnex-io">Itnex</a> (faço parte da org, sim, com crachá e tudo), e no resto do tempo escrevo software que ninguém pediu só porque ficou interessante: backend, integrações de API, bots e uns brinquedos de IoT.</p>
+<p>Aqui é o cantinho de boa. Trabalho com <b>backend e DevOps/DevSecOps</b> na <a href="https://github.com/itnex-io">Itnex</a> (faço parte da org, sim, com crachá e tudo), e no resto do tempo escrevo software que ninguém pediu só porque ficou interessante: backend, integrações de API, bots e uns brinquedos de IoT.</p>
 <p>Gosto de código legível, de pipeline que roda sozinho e de terminal aberto de madrugada. A Tayama fiscaliza.</p>
 </td>
 <td width="170" align="center"><img width="150" src="assets/rosto.png" alt="Tayama olhando de lado" /></td>
