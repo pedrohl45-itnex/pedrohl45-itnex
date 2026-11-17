@@ -2,8 +2,8 @@ name: atualizar-commits
 
 on:
   schedule:
-    # 14h, 17h e 20h de Brasília (UTC-3)
-    - cron: "0 17,20,23 * * *"
+    # 14h, 17h e 20h de Brasília (UTC-3); minuto 23 porque o :00 é o mais congestionado e pula execução
+    - cron: "23 17,20,23 * * *"
   workflow_dispatch:
 
 permissions:
