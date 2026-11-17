@@ -50,6 +50,8 @@
 <td>
 <h3>📜 projetos por aí</h3>
 <p><sub>O código público está no meu GitHub pessoal: <a href="https://github.com/pedrohl45">pedrohl45</a>.</sub></p>
+<p>🛡️ <b><a href="https://github.com/pedrohl45/devsecops-pipeline-template">devsecops-pipeline-template</a></b><br>
+Versão pública do pipeline que montei na Itnex: Gitleaks, Trivy e Semgrep que reprovam o build, imagem escaneada igual à publicada e release por tag sem rebuild. Reescrita do zero, com app de exemplo.</p>
 <p>🤖 <b><a href="https://github.com/pedrohl45/tayama-fatec-bot">tayama-fatec-bot</a></b> · <a href="https://pedrohl45-tayama-fatec-bot.vercel.app">site ↗</a><br>
 Gestão acadêmica no Discord: grade por curso e semestre, notas, faltas, média necessária, alerta de frequência em risco, DPs e dispensas. MySQL, painel administrativo e site em SPA. <sub>Python · Discord.py · MySQL · HTML/CSS/JS</sub></p>
 <p>🗓️ <b><a href="https://github.com/pedrohl45/automacao-fatec">automacao-fatec</a></b><br>
